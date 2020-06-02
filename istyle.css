@@ -1,0 +1,19 @@
+:root {
+    --navy-blue:#004a80;
+}
+.bg{
+    background-color: var(--navy-blue);
+}
+
+.img_responsive{
+    width: 40%;
+    height: auto;
+   
+}
+
+.img_center{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
